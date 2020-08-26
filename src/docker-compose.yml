@@ -1,0 +1,10 @@
+
+version: "3.5"
+
+services:  
+  strategy_baseline:
+    image: strategy_baseline
+    container_name: strategy_baseline
+    build:
+      context: ./api
+      
