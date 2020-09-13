@@ -108,10 +108,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@goatfishes/utils@1.0.7":
-  version "1.0.7"
-  resolved "https://npm.pkg.github.com/download/@goatfishes/utils/1.0.7/52e81337b7bc441ec84ec88aaf735be106ddc24d202d38aa122940e9b063db2f#20adbe4c3fe3eaf7ad0bd8243eb7b3f228224a54"
-  integrity sha512-duOWK+ErIheK1ii75l5TE/hdvY51tbBxhL6xuYwQraQu7sTODCZbL1sM5SrsV0OsRycjNaRGBcSW4SID5sMvGw==
+"@goatfishes/utils@^1.0.0":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@goatfishes/utils/-/utils-1.0.1.tgz#fe22d5282f14ab0718be4c19b7c38cbfc7f7bbb5"
+  integrity sha512-Jb5Li7knRIQnRmXr+ZiveEJL3KnPDZXHaWFkZO6r6FlMMv9uqOe1D8xDk9Ohyv1yzOlTp9X8R+NNicvK17D0kw==
   dependencies:
     ajv "^6.12.2"
     kafka-node "^5.0.0"
@@ -1654,10 +1654,10 @@ node-abi@^2.7.0:
   dependencies:
     semver "^5.4.1"
 
-node-fetch@2.6.0, node-fetch@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
-  integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
+node-fetch@2.6.1, node-fetch@^2.6.0:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+  integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
 noop-logger@^0.1.1:
   version "0.1.1"
