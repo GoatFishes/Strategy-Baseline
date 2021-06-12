@@ -108,10 +108,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@goatfishes/utils@1.0.7":
-  version "1.0.7"
-  resolved "https://npm.pkg.github.com/download/@goatfishes/utils/1.0.7/52e81337b7bc441ec84ec88aaf735be106ddc24d202d38aa122940e9b063db2f#20adbe4c3fe3eaf7ad0bd8243eb7b3f228224a54"
-  integrity sha512-duOWK+ErIheK1ii75l5TE/hdvY51tbBxhL6xuYwQraQu7sTODCZbL1sM5SrsV0OsRycjNaRGBcSW4SID5sMvGw==
+"@goatfishes/utils@^1.0.0":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@goatfishes/utils/-/utils-1.0.1.tgz#fe22d5282f14ab0718be4c19b7c38cbfc7f7bbb5"
+  integrity sha512-Jb5Li7knRIQnRmXr+ZiveEJL3KnPDZXHaWFkZO6r6FlMMv9uqOe1D8xDk9Ohyv1yzOlTp9X8R+NNicvK17D0kw==
   dependencies:
     ajv "^6.12.2"
     kafka-node "^5.0.0"
@@ -1069,9 +1069,9 @@ github-from-package@0.0.0:
   integrity sha1-l/tdlr/eiXMxPyDoKI75oWf6ZM4=
 
 glob-parent@^5.0.0:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.1.tgz#b6c1ef417c4e5663ea498f1c45afac6916bbc229"
-  integrity sha512-FnI+VGOpnlGHWZxthPGR+QhR78fuiK0sNLkHQv+bL9fQi57lNNdquIbna/WrfROrolq8GK5Ek6BiMwqL/voRYQ==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
