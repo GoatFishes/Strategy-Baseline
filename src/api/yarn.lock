@@ -108,10 +108,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@goatfishes/utils@1.0.7":
-  version "1.0.7"
-  resolved "https://npm.pkg.github.com/download/@goatfishes/utils/1.0.7/52e81337b7bc441ec84ec88aaf735be106ddc24d202d38aa122940e9b063db2f#20adbe4c3fe3eaf7ad0bd8243eb7b3f228224a54"
-  integrity sha512-duOWK+ErIheK1ii75l5TE/hdvY51tbBxhL6xuYwQraQu7sTODCZbL1sM5SrsV0OsRycjNaRGBcSW4SID5sMvGw==
+"@goatfishes/utils@^1.0.0":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@goatfishes/utils/-/utils-1.0.1.tgz#fe22d5282f14ab0718be4c19b7c38cbfc7f7bbb5"
+  integrity sha512-Jb5Li7knRIQnRmXr+ZiveEJL3KnPDZXHaWFkZO6r6FlMMv9uqOe1D8xDk9Ohyv1yzOlTp9X8R+NNicvK17D0kw==
   dependencies:
     ajv "^6.12.2"
     kafka-node "^5.0.0"
@@ -1848,9 +1848,9 @@ path-key@^3.1.0:
   integrity sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@^1.2.0:
   version "1.8.0"
