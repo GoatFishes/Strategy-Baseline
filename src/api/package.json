@@ -12,7 +12,7 @@
     "dependencies": {
         "@goatfishes/utils": "^1.0.0",
         "ajv": "^6.12.2",
-        "async": "^3.1.0",
+        "async": "^3.2.2",
         "debug": "^4.1.1",
         "fs": "^0.0.1-security",
         "kafka-node": "^4.1.3",
